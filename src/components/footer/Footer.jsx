@@ -9,7 +9,7 @@ const Footer = () => {
       <div className="container footer-wrapper">
         <div className="about-group">
           <h2>Arkady</h2>
-          <p>Frontend Developer</p>
+          <p>Mathematician & Systems Analyst & Software Engineer</p>
           <a href="#about">About me</a>
         </div>
         <div className="hr"></div>
