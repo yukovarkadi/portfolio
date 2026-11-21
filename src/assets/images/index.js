@@ -18,6 +18,11 @@ import portfolio3 from "./portfolio3.png";
 import portfolio4 from "./portfolio4.png";
 import portfolio5 from "./portfolio5.png";
 import portfolio6 from "./portfolio6.png";
+import portfolio7 from "./portfolio7.png";
+import portfolio8 from "./portfolio8.png";
+import portfolio9 from "./portfolio9.png";
+import portfolio10 from "./portfolio10.png";
+import portfolio11 from "./portfolio11.png";
 import educationWEB from "./skills_educationWEB.png";
 export {
   aboutImg,
@@ -40,5 +45,10 @@ export {
   portfolio4,
   portfolio5,
   portfolio6,
+  portfolio7,
+  portfolio8,
+  portfolio9,
+  portfolio10,
+  portfolio11,
   educationWEB,
 };
