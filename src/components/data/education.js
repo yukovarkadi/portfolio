@@ -26,6 +26,13 @@ export const education = [
   {
     year: "2020-2021",
     degree: "Full stack development in WEB technologies and applications.",
-    institutoin: "Moscow, Siemens LLC, Automation Engineering Department",
+    institutoin:
+      "Israel, Tel-Aviv, SPECTER GROUP, Ministry of Economy and Industry for vocational training and human resources development",
+  },
+  {
+    year: "2020-2021",
+    degree: "Full stack development in WEB technologies and applications.",
+    institutoin:
+      "Israel, Tel-Aviv, SPECTER GROUP, Ministry of Economy and Industry for vocational training and human resources development",
   },
 ];
