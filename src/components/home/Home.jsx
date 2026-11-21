@@ -48,7 +48,7 @@ const Home = () => {
             whileInView="visible"
             viewport={{ once: false, amount: 0.5 }}
           >
-            Software Engineer.
+            Mathematician & Systems Analyst & Software Engineer.
           </motion.h3>
           <motion.p
             custom={2}
