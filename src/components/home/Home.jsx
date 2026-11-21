@@ -39,7 +39,7 @@ const Home = () => {
             whileInView="visible"
             viewport={{ once: false, amount: 0.5 }}
           >
-            Hi, I am Arkady
+            My name is Arkady Yukov.
           </motion.h1>
           <motion.h3
             custom={1}
@@ -48,7 +48,7 @@ const Home = () => {
             whileInView="visible"
             viewport={{ once: false, amount: 0.5 }}
           >
-            Front-end Developer
+            I am a Software Engineer.
           </motion.h3>
           <motion.p
             custom={2}
@@ -57,8 +57,8 @@ const Home = () => {
             whileInView="visible"
             viewport={{ once: false, amount: 0.5 }}
           >
-            I create stunning websites for your business, Highly experienced in
-            web design and development
+            I have been working in the IT field for over 20 years. I possess
+            extensive hands-on experience in software application development.
           </motion.p>
           <motion.a
             href="#contact"
