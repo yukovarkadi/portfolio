@@ -30,7 +30,7 @@ const About = () => {
                 whileInView="visible"
                 viewport={{ once: false, amount: 0.5 }}
               >
-                I'm Arkady
+                My name is Arkady Yukov.
               </motion.h3>
               <motion.h4
                 custom={0}
@@ -39,8 +39,8 @@ const About = () => {
                 whileInView="visible"
                 viewport={{ once: false, amount: 0.5 }}
               >
-                A Lead <span>Front-End Developer</span> based in{" "}
-                <span>California</span>
+                A Lead <span>I am a Software Engineer.</span> based in{" "}
+                <span>Afula (Israel)</span>
               </motion.h4>
               <motion.p
                 custom={0}
@@ -49,10 +49,9 @@ const About = () => {
                 whileInView="visible"
                 viewport={{ once: false, amount: 0.5 }}
               >
-                I design and develop services for customers specializing
-                creating stylish, modern websites, web services and online
-                stores. My passion is to design digital user experiences through
-                meaningful interactions. Check out my Portfolio
+                I have been working in the IT field for over 20 years. I possess
+                extensive hands-on experience in software application
+                development. Check out my Portfolio.
               </motion.p>
             </div>
             <ul className="professional-list">
