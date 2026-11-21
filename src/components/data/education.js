@@ -30,9 +30,13 @@ export const education = [
       "Israel, Tel-Aviv, SPECTER GROUP, Ministry of Economy and Industry for vocational training and human resources development",
   },
   {
-    year: "2020-2021",
-    degree: "Full stack development in WEB technologies and applications.",
-    institutoin:
-      "Israel, Tel-Aviv, SPECTER GROUP, Ministry of Economy and Industry for vocational training and human resources development",
+    year: "2024",
+    degree: "React: The Complete Guide to React, Redux, and Redux Toolkit .",
+    institutoin: "Udemy (Bogdan Stashchuk)",
+  },
+  {
+    year: "2026",
+    degree: "ChatGPT: Complete AI, ChatGPT, OpenAI API & DALL-E Course.",
+    institutoin: "Udemy (Bogdan Stashchuk)",
   },
 ];
